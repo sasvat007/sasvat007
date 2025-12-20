@@ -10,10 +10,3 @@ Interested in application development and problem solving
 Always curious and improving
 
 ---
-
-### 📌 What I’m Up To
-- Building academic and personal projects  
-- Improving coding and backend concepts  
-- Exploring real-world application design  
-
----
