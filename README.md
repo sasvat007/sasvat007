@@ -1,4 +1,4 @@
-# Hi there 👋 I am [**Sasvat**](https://github.com/sasvat007)
+# Hi there 👋 I am [**Sasvat S R**](https://github.com/sasvat007)
 
 <p>
   <img src="https://img.shields.io/github/stars/sasvat007?color=yellow&label=Stars&affiliations=OWNER">
@@ -16,11 +16,72 @@
 Student at **Shiv Nadar University, Chennai**.
 
 I am a keen tech enthusiast, learning my way through the computer world.  
-Currently, I enjoy building small projects and experimenting with **Flutter**, **Java**, and backend development.
+
+## 🚀 Core Skills
+
+<p>
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://www.java.com">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://flutter.dev">
+    <img src="https://skillicons.dev/icons?i=flutter" />
+  </a>
+  <a href="https://www.linux.org">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://skillicons.dev/icons?i=spring" />
+  </a>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+<p>
+  <a href="https://www.postgresql.org">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+  <a href="https://aws.amazon.com">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+  <a href="https://www.docker.com">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+  <a href="https://dart.dev">
+    <img src="https://skillicons.dev/icons?i=dart" />
+  </a>
+</p>
+
+
+  ### 📬 Connect with Me
+
+<p>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <img src="https://img.shields.io/badge/Discord-sasvat007-5865f2?logo=discord&labelColor=ffffff" alt="Discord - sasvat007">
+  </a>
+
+  <a href="mailto:sasvat007@gmail.com">
+    <img src="https://img.shields.io/badge/sasvat007@gmail.com-orange?logo=protonmail&labelColor=ffffff" alt="Email">
+  </a>
+
+  <a href="https://www.instagram.com/sasvat007">
+    <img src="https://img.shields.io/badge/Instagram-%40sasvat007-deeppink?logo=instagram&labelColor=ffffff" alt="Instagram - sasvat007">
+  </a>
+  
+  <a href="https://t.me/sasvat007">
+    <img src="https://img.shields.io/badge/Telegram-%40sasvat007-24a1de?logo=telegram&labelColor=ffffff" alt="Telegram - sasvat007">
+  </a>
+</p>
+
+
 
 Learning new technologies step by step  
 Interested in application development and problem solving  
-Always curious and improving
+Always curious and improving.
 
 ---
 
