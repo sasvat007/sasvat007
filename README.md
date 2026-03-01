@@ -69,7 +69,7 @@ I am a keen tech enthusiast, learning my way through the computer world.
   </a>
 
   <a href="https://www.instagram.com/sasvat_007">
-    <img src="https://img.shields.io/badge/Instagram-%40sasvat007-deeppink?logo=instagram&labelColor=ffffff" alt="Instagram - sasvat007">
+    <img src="https://img.shields.io/badge/Instagram-%40sasvat007-deeppink?logo=instagram&labelColor=ffffff" alt="Instagram - sasvat_007">
   </a>
   
   <a href="https://t.me/sasvat007">
