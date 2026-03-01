@@ -68,7 +68,7 @@ I am a keen tech enthusiast, learning my way through the computer world.
     <img src="https://img.shields.io/badge/sasvat007@gmail.com-orange?logo=protonmail&labelColor=ffffff" alt="Email">
   </a>
 
-  <a href="https://www.instagram.com/sasvat007">
+  <a href="https://www.instagram.com/sasvat_007">
     <img src="https://img.shields.io/badge/Instagram-%40sasvat007-deeppink?logo=instagram&labelColor=ffffff" alt="Instagram - sasvat007">
   </a>
   
