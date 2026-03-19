@@ -64,7 +64,7 @@ I am a keen tech enthusiast, learning my way through the computer world.
     <img src="https://img.shields.io/badge/Discord-sasvat007-5865f2?logo=discord&labelColor=ffffff" alt="Discord - sasvat007">
   </a>
 
-  <a href="mailto:sasvat007@gmail.com">
+  <a href="mailto:contact@sasvat.me">
     <img src="https://img.shields.io/badge/sasvat007@gmail.com-orange?logo=protonmail&labelColor=ffffff" alt="Email">
   </a>
 
