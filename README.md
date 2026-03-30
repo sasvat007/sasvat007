@@ -1,4 +1,4 @@
-# Hi there 👋 I am [**Sasvat S R**](https://github.com/sasvat007)
+# Hi there, I am [**Sasvat S R**](https://github.com/sasvat007)
 
 <p>
   <img src="https://img.shields.io/github/stars/sasvat007?color=yellow&label=Stars&affiliations=OWNER">
@@ -60,9 +60,6 @@ I am a keen tech enthusiast, learning my way through the computer world.
   ### 📬 Connect with Me
 
 <p>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-sasvat007-5865f2?logo=discord&labelColor=ffffff" alt="Discord - sasvat007">
-  </a>
 
   <a href="mailto:contact@sasvat.me">
     <img src="https://img.shields.io/badge/contact@sasvat.me-orange?logo=protonmail&labelColor=ffffff" alt="Email">
