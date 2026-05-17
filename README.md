@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🔭 Currently working on [Qashare](https://github.com/sasvat007/Qashare)
+- 🔭 Currently working on [Converge](https://github.com/sasvat007/Converge-gdg)
 
 Student at **Shiv Nadar University, Chennai**.
 
