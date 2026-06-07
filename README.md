@@ -35,13 +35,6 @@ I am a keen tech enthusiast, learning my way through the computer world.
   <a href="https://spring.io/projects/spring-boot">
     <img src="https://skillicons.dev/icons?i=spring" />
   </a>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-<p>
   <a href="https://www.postgresql.org">
     <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
@@ -54,6 +47,9 @@ I am a keen tech enthusiast, learning my way through the computer world.
   <a href="https://dart.dev">
     <img src="https://skillicons.dev/icons?i=dart" />
   </a>
+  <a href="https://www.jenkins.io/">
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" width="50" height="50">
+</a>
 </p>
 
 
