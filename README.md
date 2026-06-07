@@ -38,6 +38,9 @@ I am a keen tech enthusiast, learning my way through the computer world.
   <a href="https://www.postgresql.org">
     <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
+  <a href="https://www.mysql.com">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
   <a href="https://aws.amazon.com">
     <img src="https://skillicons.dev/icons?i=aws" />
   </a>
